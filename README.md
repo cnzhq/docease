@@ -25,7 +25,7 @@
 DocEase is a medical documentation assistance software designed for clinicians. It aims to simplify tedious paperwork such as medical record writing and order management through intelligent tools, allowing doctors to focus more on patient diagnosis and treatment.
 
 **Core Values:**
-- **Medicine + Simplicity** = Perfect combination of professional healthcare and minimalist operation
+- **Doc(tor)/Doc(ument) + Ease** = Perfect combination of professional healthcare and minimalist operation
 - **Efficiency First** — Reduce repetitive work, improve documentation standards and completeness
 - **Doctor-Centric** — Designed from real clinical needs, fitting authentic workflow scenarios
 
